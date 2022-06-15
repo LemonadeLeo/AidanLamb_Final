@@ -1,0 +1,66 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(73, 63, 182);
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+li a:hover {
+  background-color: rgb(26, 21, 44);
+}
+
+.tableau_background {
+  background-color: rgb(0, 0, 0);
+}
+
+.tableau_heading {
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.captions {
+  color: whITE;
+  padding: 5vw;
+  text-align: center;
+}
+
+p {
+  background-color: rgb(73, 63, 182);
+  display: block;
+  padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(73, 63, 182);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: rgb(225, 84, 84);
+  text-align: center;
+  text-decoration: none;
+}

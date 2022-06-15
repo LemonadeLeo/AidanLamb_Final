@@ -1,0 +1,74 @@
+/*Used on Home page*/
+
+.img_container {
+    width: 45vw;
+    border-radius: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 20px
+}
+
+.white_text {
+    color: rgb(255, 255, 255)
+}
+
+
+.index_background {
+    background-color: rgb(135, 173, 198);
+}
+
+.black_text {
+    color: black;
+}
+
+.centered_text {
+    text-align: center;
+}
+
+.gray_text {
+    color: rgb(81, 74, 74);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*used on About page*/
+.about_background {
+    background-color: rgb(87, 179, 99);
+
+}
+
+.centered_text {
+    text-align: center;
+}
+
+
+.byuit_style {
+    height: 100px;
+}
+
+.column {
+    float: right;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.img_container2 {
+    width: 100px
+}
+
+.left_padding {
+    padding-left: 25px;
+}
+
+.video_format {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.white_text {
+    color: white;
+}
+
+img {
+    width: 30vw;
+}
